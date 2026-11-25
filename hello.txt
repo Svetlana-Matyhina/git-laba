@@ -1,2 +1,1 @@
-hello from main 
-hello from feature-a 
+hello from feature-b 
